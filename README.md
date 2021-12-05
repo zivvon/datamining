@@ -1,1 +1,1 @@
-### datamining
+### datamining 연습
